@@ -1,0 +1,7 @@
+# イメージに入れないもの
+node_modules
+dist
+test
+.env
+.git
+*.log
